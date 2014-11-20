@@ -1,6 +1,6 @@
 Дtta¢k Vεcтøя Linux a.k.a. 'AVL'
 ================================
-©#!zǝяø88∴» ✪[tØѪμ](http://github.com/thomhastings)™ ✪[5тiиgεя](http://ksoona.github.io)® —[didym0us](http://ejje.weblio.jp/content/65803+Didymos)☻ #!∆∴»~ skip to: [Downloads](https://github.com/ksoona/attackvector/blob/master/README.md#download)
+©#!zǝяø88∴» ✪[TØѪμ](http://github.com/thomhastings)™ ✪[5тiиgεя](http://ksoona.github.io)® —[didym0us](http://ejje.weblio.jp/content/65803+Didymos)☻ #!∆∴»~ skip2: [Downloads](https://github.com/ksoona/attackvector/blob/master/README.md#download).
 
 「**AttackVector Linux**」 is a new distribution for anonymized* penetration testing & security auditing.  
 If you will, the "[dragon](http://www.n1tr0g3n.com/wp-content/uploads/2011/12/Green_dragon_by_archstroke.png)" {[龍](http://dragonkahn.deviantart.com/art/Sleek-and-Sporty-528791)} now has "[tails](http://tails.boum.org)" —get [it](http://5tinger.deviantart.com/art/Sleek-and-Sporty-2-60881670)? Follow the extended [meta](https://www.spaceglasses.com)phor? I know, it's lame.  
@@ -26,12 +26,12 @@ The two projects have different design philosophies that can directly conflict w
 In spite of this, the goal of **AttackVector Linux** is to integrate them complimentary into one.
 
 ##### Features
-* apt/iceweasel/wget all run through tor (using polipo)
+* `apt/iceweasel/wget all run through tor (using polipo)`
 * Iceweasel includes cookie monster, [HTTPS Everywhere](https://www.eff.org/https-everywhere), TORbutton, and other great extensions
 * Incredible password recovery tools: [hashkill](http://www.gat3way.eu/hashkill) OCLHashcat, many more!
 * Great Ruby tools like [Ronin](https://github.com/ronin-ruby/) ...and [Bro](https://www.bro.org)[nin](http://rwnin.blogspot.com)?
 * Every penetration testing security tool from [Kali](http://kali.org). (Yes, [really](https://gist.github.com/ksoona/5691841).)
-* Additional tools for pen-testing, password cracking, and more!
+* Additional tools for `pen-testing`, password `cracking`, and more!
 * Dedicated install with FDE and [wordlists galore](https://github.com/thomhastings/bt5-scripts#get-wordlistssh).
 * Other tools like [PwnSTAR](https://github.com/SilverFoxx/PwnSTAR), FakeAP, sdmem, [mimikatz-en](https://github.com/thomhastings/mimikatz-en), [cortana](https://github.com/rsmudge/cortana-scripts)
 
@@ -39,7 +39,7 @@ Download
 ========
 * Recall you can always just follow the [build instructions](https://github.com/ksoona/attackvector/blob/master/README.md#build-instructions).
 * Otherwise, Download Away! » [attack_vector_alpha_0.1.1b.iso](http://turing.slu.edu/~hastint/attack_vector_alpha_0.1.1b.iso)
-* If you can host a mirror, please do. Also put up torrents. Yes.
+* If you can host a mirror, please do. Also put up torrents. `Yes`
 
 F.A.Q.
 ======
