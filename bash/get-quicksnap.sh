@@ -1,7 +1,7 @@
 #!/bin/sh
 cd /tmp
-wget -N https://www.soldierx.com/system/files/sxlabs/projects/scryptz0/quicksnap.py_.tar.gz
-tar xvf quicksnap.py_.tar.gz
+wget -N https://www.soldierx.com/system/files/sxlabs/projects/alcohologist/quicksnap.tar.gz
+tar xvf quicksnap.tar.gz
 mv quicksnap.py /opt
-rm quicksnap.py_.tar.gz
+rm quicksnap.tar.gz
 #I love you soldierx.
